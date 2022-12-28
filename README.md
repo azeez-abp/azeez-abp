@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azeez-abp
 - 👀 I’m interested in full stack development and virtualization
-- 🌱 I’m currently learning python and JAVA
+- 🌱 I’m full stack developer enginner
 - 💞️ I’m looking to collaborate on team 
 
 <!---
