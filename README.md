@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack development and virtualization
 - 🌱 I’m full stack developer engineer
 - 💞️ I can work perfectly in team and as individual
+- Popular repositories is list of my public project, my private project are confidential
 
 
 <!---
