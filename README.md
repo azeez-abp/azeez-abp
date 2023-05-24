@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @azeez-abp
 - 👀 I’m interested in full stack development and virtualization
-- 🌱 I’m full stack developer enginner
-- 💞️ I’m looking to collaborate on team 
+- 🌱 I’m full stack developer engineer
+- 💞️ I can work perfectly in team and as individual
+
 
 <!---
 azeez-abp/azeez-abp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
